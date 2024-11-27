@@ -67,9 +67,9 @@ input {
   outline: none;
   color: white;
 }
-/* input::placeholder,input:-ms-input-placeholder,input:-moz-placeholder{
+input::placeholder,input:-ms-input-placeholder,input:-moz-placeholder{
   color: white;
-} */
+}
 button {
   width: 50px;
   height: 50px;
